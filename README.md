@@ -13,22 +13,20 @@
 
 -📩 Contate-me por: amandabezerrapedrosa@gmail.com 
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Perfil</title>
-  <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-  <div class="container">
-    <a href="https://beacons.ai/AmandaBeserras">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabeserras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://beacons.ai/AmandaBeserras">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabeserras&layout=compact&langs_count=16&theme=dracula" />
-    </a>
-  </div>
-</body>
-</html>
+<div>
+  <a href="https://beacons.ari/AmandaBeserras">
+    <img height="90em" src="https://github-readme-stats.vercel.app/api?username=amandabeserras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabeserras&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
