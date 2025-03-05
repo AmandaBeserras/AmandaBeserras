@@ -13,6 +13,7 @@
 
 -📩 Contate-me por: amandabezerrapedrosa@gmail.com 
 
+##
 <div>
   <a href="https://beacons.ari/AmandaBeserras">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabeserras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,14 +21,17 @@
   </a>
 </div>
 
+## ⚙️ Habilidades
 <div style="display: inline_block"><br>
  <img alt="Javascript" align="center" height="30" wiodth="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img alt="HTML" align="center" height="30" wiodth="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
  <img alt="CSS" align="center" height="30" wiodth="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img alt="SqlDeveloper" align="center" height="30" wiodth="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+
           
 
-            
+
  
 
           
