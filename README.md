@@ -17,7 +17,6 @@
 <div>
   <a href="https://beacons.ari/AmandaBeserras">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabeserras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabeserras&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
 
