@@ -1,15 +1,15 @@
 # ✨️ Olá, sou a Amanda!
 
--👋  Olá! Meu nome é Amanda e tenho 19 anos. Atualmente, trabalho como menor aprendiz em uma fabricante de vidros automotivos, onde desenvolvo habilidades na execução de processos padronizados e aplico conhecimentos de qualidade e segurança. Além disso, estou me familiarizando com metodologias de gestão, como o Diagrama de Ishikawa, a técnica dos 5 porquês, a matriz de criticidade e o programa 5S
+-👋  Olá! Meu nome é Amanda e tenho 20 anos. Tenho uma grande paixão por tecnologia e amo aprender coisas novas, mesmo que não estejam diretamente ligados à área que desejo atuar, pois acredito que a curiosidade é uma ferramenta poderosa no desenvolvimento. Nos últimos tempos, venho me dedicando com mais foco ao universo Dev e à análise de dados, duas áreas que despertam muito meu interesse. Gosto de entender como as informações se transformam em soluções inteligentes e como a lógica por trás do código pode impactar pessoas e negócios. Ainda tenho muito a aprender, mas também sei que, quando a oportunidade certa surgir, estarei preparada para abraçar os desafios e dar o meu melhor.
 
--💡 Cursando 5° Semestre de Análise e Desenvolvimento de Sistemas
+-💡 Cursando 6° Semestre de Ciência da computação
 
 -📚 Atualmente, estou aprofundando meus conhecimentos em:
- * 🖥️ Front-End
- * ⚙️Back-End
- * 📲Desenvolvimento Mobile
+ * 🎲 Estrutura de Dados
+ * ⚙️Complexidade de Algoritmos
+ * 🔢Probabilidade e Estatística
 
--🌱 Busco ativamente uma oportunidade para me desenvolver como Desenvolvedor Front-End ou Análista de Dados
+-🌱 Busco ativamente uma oportunidade para me desenvolver no universo Dev ou Análista de Dados
 
 -📩 Contate-me por: amandabezerrapedrosa@gmail.com 
 
